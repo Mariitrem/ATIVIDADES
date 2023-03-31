@@ -1,0 +1,51 @@
+/* Modelo estilo css */
+
+.conteudo{
+    border: 1px;
+    padding-top: 50px;
+    margin-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding: 20px;
+    background: rgb(255, 231, 195);
+
+
+    /*padding: 30px 15px 10px 5px;*/
+
+}
+
+#noticia{
+    background: navajowhite;
+    
+}
+
+#teste1{
+    border: 1px;
+    padding-top: 20px;
+    margin-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding: 20px;
+    background: red;
+}
+
+.teste2{
+    border: 1px;
+    padding-top: 50px;
+    margin-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding: 20px;
+    background: rgb(194, 22, 108);
+}
+
+.teste3{
+    border: 1px;
+    padding-top: 40px;
+    margin-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding: 20px;
+    background: blue;
+}
+
